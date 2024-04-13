@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 I'm Eric Roth 😁 
-<div>
-<span><img src="https://img.shields.io/github/followers/unoriginal1234?label=Followers&logo=Github"/></span>
-</div>
+### Hi there 👋 I'm Eric Roth 😁 
 
 ## 🎓 I'm an easy-to-work-with Software Engineering Immersive Resident at Hackreactor who loves puzzles and games
 
