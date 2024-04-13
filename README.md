@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 ## 🎓 I'm an easy-to-work-with Software Engineering Immersive Resident at Hackreactor who loves puzzles and games
 
-- 🚀 Currently advancing my debut project, Headliners.
+- 🔭 Currently advancing my debut project, Headliners.
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
-- 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
-- 🗨️ Feel free to inquire about any topic.
-- ✨ Interesting tidbit: Grew up in a family of gymnasts in Chicago!
+- 👯 Eager to collaborate on diverse projects with fellow enthusiasts.
+- 💬 Feel free to inquire about any topic.
+- 😄 Pronouns: He/Him
+- ⚡ Interesting tidbit: Grew up in a family of gymnasts in Chicago!
 
 ## ✉ Find me on:
 <br />
