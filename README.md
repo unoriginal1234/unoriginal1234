@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🎓 I'm an easy-to-work-with Software Engineering Immersive Resident at Hackreactor who loves puzzles and games
 
 - 🔭 Currently advancing my debut project, Headliners.
-- 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
+- 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor and CS50 at HarvardX.
 - 👯 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 💬 Feel free to inquire about any topic.
 - 😄 Pronouns: He/Him
