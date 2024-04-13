@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **unoriginal1234/unoriginal1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 I'm unoriginal1234 but you can call me Eric Roth 😁 
+## Hi there 👋 I'm Eric Roth 😁 
 <div>
 <span><img src="https://img.shields.io/github/followers/unoriginal1234?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm an easy to work with Software Engineering Immersive Resident at Hackreactor
+## 🎓 I'm an easy-to-work-with Software Engineering Immersive Resident at Hackreactor who loves puzzles and games
 
 - 🚀 Currently advancing my debut project, Headliners.
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
