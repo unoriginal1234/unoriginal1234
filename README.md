@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 <img src="visitor-badge.laobi.icu/badge?page_id=unoriginal1234.unoriginal1234"/> <span><img src="https://img.shields.io/github/followers/unoriginal1234?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm a Software Engineering Immersive Resident at Hackreactor and a 10 year US Navy Veteran
+## 🎓 I'm an easy to work with Software Engineering Immersive Resident at Hackreactor
 
-- 🚀 Currently advancing my debut project, JS Quest 2: The Next Level.
+- 🚀 Currently advancing my debut project, Headliners.
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 🗨️ Feel free to inquire about any topic.
-- ✨ Interesting tidbit: Spent a decade in the Navy and have a passion for trampoline acrobatics!
+- ✨ Interesting tidbit: Grew up in a family of gymnasts in Chicago!
 
 ## ✉ Find me on:
 <br />
 <p align="left">
- <a href="https://www.linkedin.com/in/lucas-m-larson/" target="_blank" rel="noopener noreferrer"> 
+ <a href="https://www.linkedin.com/in/eric-roth-6b259b136" target="_blank" rel="noopener noreferrer"> 
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
  </a>
  <a href="mailto:lucas.m.larson2@gmail.com"> 
