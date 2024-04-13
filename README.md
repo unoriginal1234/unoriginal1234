@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋 I'm unoriginal1234 but you can call me Eric Roth 😁 
 <div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=unoriginal1234.unoriginal1234"/> <span><img src="https://img.shields.io/github/followers/unoriginal1234?label=Followers&logo=Github"/></span>
+<img src="visitor-badge.laobi.icu/badge?page_id=unoriginal1234.unoriginal1234"/> <span><img src="https://img.shields.io/github/followers/unoriginal1234?label=Followers&logo=Github"/></span>
 </div>
 
 ## 🎓 I'm a Software Engineering Immersive Resident at Hackreactor and a 10 year US Navy Veteran
