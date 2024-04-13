@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋 I'm unoriginal1234 but you can call me Eric Roth 😁 
 <div>
-<img src="visitor-badge.laobi.icu/badge?page_id=unoriginal1234.unoriginal1234"/> <span><img src="https://img.shields.io/github/followers/unoriginal1234?label=Followers&logo=Github"/></span>
+<span><img src="https://img.shields.io/github/followers/unoriginal1234?label=Followers&logo=Github"/></span>
 </div>
 
 ## 🎓 I'm an easy to work with Software Engineering Immersive Resident at Hackreactor
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,bootstrap,c,tailwind, python,express,babel,jest,vscode,bash,git,github,blender,ai,aws,mongodb,mysql,nextjs,nodejs,postgres,postman,sequelize,webpack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,bootstrap,c,tailwind,python,express,babel,jest,vscode,bash,git,github,blender,ai,aws,mongodb,mysql,nextjs,nodejs,postgres,postman,sequelize,webpack" />
   </a>
 </p>
 
