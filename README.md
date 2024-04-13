@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,bootstrap,c, tailwind, python,express,babel,jest,vscode,bash,git,github,blender,ai,aws,mongodb,mysql,nextjs,nodejs,postgres,postman,sequelize,webpack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,bootstrap,c,tailwind, python,express,babel,jest,vscode,bash,git,github,blender,ai,aws,mongodb,mysql,nextjs,nodejs,postgres,postman,sequelize,webpack" />
   </a>
 </p>
 
