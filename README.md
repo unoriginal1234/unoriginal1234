@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Eric Roth 😁 
 
-## 🎓 I'm an easy-to-work-with Software Engineering Immersive Resident at Hackreactor who loves puzzles and games
+## I'm Support Engineer at CodeSignal who loves games and puzzles
 
 - 🔭 Currently advancing my debut project, Headliners.
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor and CS50 at HarvardX.
