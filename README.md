@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Eric Roth 😁 
 
-## I'm Support Engineer at CodeSignal who loves games and puzzles
+## A Support Engineer at CodeSignal who loves production debugging
 
-- 🔭 Currently advancing my debut project, Headliners.
 - 🌿 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor and CS50 at HarvardX.
 - 👯 Eager to collaborate on diverse projects with fellow enthusiasts.
 - 💬 Feel free to inquire about any topic.
