@@ -11,9 +11,6 @@
  <a href="https://www.linkedin.com/in/eric-roth-6b259b136" target="_blank" rel="noopener noreferrer"> 
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
  </a>
- <a href="mailto:eric.t.roth@gmail.com"> 
-  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
- </a>
 </p>
 <br />
 
